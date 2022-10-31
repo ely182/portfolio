@@ -134,31 +134,36 @@ body{
 .sobre{
     grid-area:sobre;
     background: linear-gradient(to top,	#808080,#a2a1a1,#6c6b6b);
-    /* display:flex; */
+    height: calc(100vh );
     justify-content: center;
     align-items: center;
     font-size: 1.2rem;
-    padding: 20px;
+    padding: 10px;
     color:black
 }
 .sobre > img{
     width: 100px;
     display: flex;
+    margin-left: 200px;
+    margin-top: 10px;
+    
 }
 
 .sobre > h1{
     text-align: center;
+   margin-top:-150px ;
+    
     
 }
 
 
-.sobre > div>h2{
+.sobre > div>h2{   
     font-size: 20px;
     width:500px;    
 }
 .meio{
     justify-content: center;
-    display: flex;
+    display:flex; 
     align-items: center;
 }
 

@@ -48,9 +48,10 @@
 
  
 <img src="imag/caricatura.png" alt="caricatura">
-   <h1>Sobre mim </h1> <br>
+<h1>Sobre mim </h1> 
    
    <div class="meio">
+   <br>
    <h2 align=justify >   Meu nome é Ely Gabriel, sou um admirador da tecnologia,
 desde a minha adolescência venho me especializando na área de programação e desenvolvimento web, hoje faço estagio na empresa avancy. Co como desenvolvedor web, e estudo sistema da informação na Universidade<br>Estácio, trabalhei com projetos web em Frontend, conhecendo as tecnologias como Bootstrap, ReactJS etc.
 </h2></div>
